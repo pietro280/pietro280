@@ -1,11 +1,116 @@
+#EXTM3U8
 
-#EXTM3U
+# abertos
 
-#EXTNF:-0 tvg-logo"https://dubdb.fandom.com/wiki/P%C3%A2nico_VI" goup-title="filmes/lançamento",pânico vi
-https://s-delivery44.mxdcontent.net/v/d870955375bdc16e83923b7cd8e9714e.mp4?s=jttCEpvMOgmy4sN5r2Ei6w&e=1682722317&_t=1682703112
+#EXTINF:-0 tvg-logo="https://oplanetatv.clickgratis.com.br/noticias/bastidores/janeiro-de-2023-sera-o-primeiro-mes-do-ano-com-mais-estreias-na-tv-globo-em-11-anos.html" goup-title="abertos",globo hd
+https://live-as-11-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjgyOTgxOTIwLCJpYXQiOjE2ODI4OTU1MjAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNGNjZmUyMjQtM2E2MS00NzM3LWExY2ItNmE1ZjU1NmNlZTFhIiwicGF0aCI6Ii9udS9mKGE9YXVkaW9fMSxiTWluPTIwMDAsZHZyPTEyMCxobHM9MyxpPTIsdj12aWRlbykvZ2xvYm8tY2FtL3BsYXlsaXN0Lm0zdTgifQ.wRIpovwKkMaWcZyfRuCejeoq0UOV-S3cbB8RICK88_VHqkYtxkrLVP3ffDde-LmoGPaP-hk9NIJknpsyw2a1qe-L9341SWF7uSoKwZcrsi04I4-lWICdAaqYPZdrQR6YaZTV_Tas9uaaBPwQwuMvSCFsWyD3xiZD1ZZ_p-Jfkck74tSdBV3oZCZhzMWstmX8RPIrbcv28oF5QtMO0AALoqB55v5xBktFarnVuPrpmGm-ulFRx6dhSF_FQcKKdIYYz_bgj3shIHIiKC5jRAC6gHHp6eRQL977mbZ65Zg6-jMkzrO59k_FebTwW-kLC6k1ntWFi75WueADzJItcJzyag/nu/f%28a=audio_1,bMin=2000,dvr=120,hls=3,i=2,v=video%29/globo-cam/globo-cam-audio_1=96000-video=2262976.m3u8?dvr_window_length=120&hls_client_manifest_version=3
 
-#EXTNF:-0 tvg-logo="https://casapark.com.br/cinema/creed-iii/" goup-title="filmes/lançamento",creed 
-https://s-delivery28.mxdcontent.net/v/99478708b041df8c40e10b6ef71b06c7.mp4?s=2feSdAEsScnVQQxOAjX-WA&e=1682731715&_t=168271541
+#EXTINF:-0 tvg-logo="https://jogada10.com.br/band-fecha-acordo-para-transmitir-serie-b/amp/" goup-title="abertos",band hd
+https://stream-02.nyc.dailymotion.com/sec%28xvicpH7H4LlcnXpZuORL-TR0sPombk3anhw_XaEQ4-L_J3ohLSZfDD9yxfDy0EgO%29/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 
-#EXTINF:-0 tvg-logo="https://dublagem.fandom.com/wiki/Homem-Formiga_e_a_Vespa:_Quantumania" goup-title="filmes",homem-formiga e a vespa:quantumania
-http://gfs270n224.userstorage.mega.co.nz/dl/CvRnKspP4ZHAvQKqH9j1IF0286TPTDz0h9CnLHEMiUO6gDdLSSvcG6eOGSCgdYXaF4tTNowYPWfo6_u3Bk2jaM4G4VQ8Wb4HTDcw_xtCO4qrFfXLLexNKKCBDHCctFEdf3ci_1xDi2nEs8SLy-SE7xax4LOSubcoX0tj3mYZ6wUbGUgQuvq9sSotLpoe8Y6yR8lPqer2pqSQBxUc-rl_6lPNJjfB0S9b12wzCCO-ltvHrVMRtrvLBfJ2Sg
+#EXTINF:-0 tvg-logo="https://seeklogo.com/vector-logo/252953/sbt" goup-title="abertos",sbt hd
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-0 tvg-logo="https://imaginaspace.fandom.com/pt-br/wiki/Hist%C3%B3rico_de_logomarcas_da_Rede_Record" goup-title="abertos",record hd
+https://server101.online/record/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=ca546690bf07b8b5ba2f21c35ebc1c1ebf6170fa-9eeeb51ab87b285b362839a56ba436dc-1682958750-1682951550
+
+#EXTINF:-0 tvg-logo="https://www.publicitarioscriativos.com/redetv-apresenta-nova-identidade-visual/amp/" goup-title="abertos",rede tv hd
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1653071590_b5197477.m3u8
+
+#EXTINF:-0 tvg-logo="https://jovemaprendiz.org/jovem-aprendiz-tv-cultura-2023-vagas-inscricoes" goup-title="abertos",cultura hd
+https://server101.online/cultura/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=472cffeea06834aa4210571442d0702dd70634ca-36598e4d38a1b8f72717c2716bef0b16-1682960754-1682953554
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:CanalBrasil_logos_700px_0-03.png" goup-title="abertos",canal brasil hd
+https://server101.online/canal-brasil/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=6649df3768bc1c35fd5c6677fcf9ff073a5c5478-717937e96ec0078f9c527869d107b03a-1682960953-1682953753
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Canal_Futura.png" goup-title="abertos",futura hd
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:TV_Gazeta.svg" goup-title="abertos",tv gazeta  
+https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v1kVvaWEnLdq9aBj-e_Zp6SlkYyo7ykZGKrvCkE2alQo)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc
+
+# discovery
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:2015_Discovery_theater_HD_logo.svg" goup-title="discovery",discovery theater hd
+https://server101.online/d-theater/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=4447631616e9cd5b7b7a148ff3333e85dc9d14fd-694b5a4905b4364c8e9cd49266c00aed-1682956807-1682949607
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Discovery_Home_%26_Health" goup-title="discovery",discovery h&h hd
+https://server101.online/d-hh/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=e09966bed1de9f8b025e125add500ff26009b084-31478c2def127c312d6ad82d0a7bd896-1682956472-1682949272
+
+#EXTINF:-0 tvg-logo="https://www.pngwing.com/pt/free-png-decys" goup-title="discovery",discovery channel hd
+https://server101.online/d-channel/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=d8e25a9d5797870a1429f915c93d598207b4671d-5c0cbcf1207034161c38e3464fd29d6c-1682962662-1682955462
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Discovery_Science" goup-title="discovery",discovery sci hd
+https://server101.online/d-science/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=5c39ef3518eb66a6a73c2a1140760741cfede254-2b6457a2825cc1f9eb69d6614153a4a5-1682962959-1682955759
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Discovery_Turbo_logo.svg" goup-title="discovery",discovery turbo hd
+https://server101.online/d-turbo/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=1da61ef1faf2f76abffe4345be1643eaacb4268b-40e08647e29e11cb3883be611bb0717f-1682963333-1682956133
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:World_Discovery_HD_logo.svg" goup-title="discovery",discovery world hd
+https://server101.online/d-world/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=a6b8b151a7572ee517b532859c140dbbc8ed71f0-5f515efd6be7dcbe23ef7d19304dec3e-1682963787-1682956587
+
+#EXTINF:-0 tvg-logo="" goup-title="discovery",discovery id hd
+https://server101.online/d-id/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=3879164874c4195b43b09b88325cb69de0c4c0fc-c3c97a3609c8c7ab34743a95bf17bf78-1682964409-1682957209
+
+# documentarios
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:2018_Animal_Planet_logo.svg" goup-title="documentarios",animal planet hd
+https://server101.online/animal-planet/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=46493b8a3e6c38675adda7120a2f63a4cad7d697-a3c07b2bc073cba7cc86764b025ad356-1682965081-1682957881
+
+#EXTINF:-0 tvg-logo="https://mi.tv/br/canais/arte-1-hd" goup-title="documentarios",arte 1 hd
+http://187.95.95.247/ArteHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Fish_TV_logo_2022.svg" goup-title="documentarios",
+http://168.205.87.198:8555/live/antony/1234/62.m3u8
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:HGTV_US_Logo_2015.svg" goup-title="documentarios",hgtv hd
+https://server101.online/hgtv/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=bd699f49e155e593f260557499c4a4aa44351c06-ed8b0d9b6ad12118f0cd1a37cf0d9bb9-1682968805-1682961605
+
+#EXTINF:-0 tvg-logo="https://www.imagensempng.com.br/logo-the-history-png/" goup-title="documentarios",history hd
+https://server101.online/history/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=01e6bb8df8995921bc5e16062590b90fe12b74db-c18bb59c974985f1bd832c4587afb27c-1682969219-1682962019
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/History_2" goup-title="documentarios",history²
+https://server101.online/h2/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=e11ae0b552176e935568e994c9841c1275c6c1c5-7893f9b404e67d248f827ed1dfc42441-1682969545-1682962345
+
+#EXTINF:-0 tvg-logo="https://logosmarcas.net/national-geographic-logo/amp/" goup-title="documentarios",natgeo hd
+https://server101.online/nat-geo/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=0f19f1c52658027c8bf114f89cb42c24c06eb781-9654ccf1d1474708bdbd65287cf2b2d7-1682969820-1682962620
+
+#EXTINF:-0 tvg-logo="https://logodownload.org/tcl-logo-tcl-comunicacao/" goup-title="documentarios",tcl hd
+https://server101.online/tlc/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=15adf4d76d8d032c4890f1c717872a0952de6630-17515ae1b815ddaf34c2c883e43ec2d9-1682970306-1682963106
+
+# variedades
+
+#EXTINF:-0 tvg-logo="https://logodownload.org/comedy-central-logo/" goup-title="variedades",comedy central hd
+https://server101.online/comedy-central/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=fed83b035acd456bcb26839d906a4c1c51278aa6-0287d5b4be112495693250c9f6658fb6-1682970768-1682963568
+
+#EXTINF:-0 tvg-logo="https://logosandtypes.com/alphabet/letter-e/entertainment-news/" goup-title="variedades",e! hd
+https://server101.online/entertainment/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=2c73aa4033f4fa0ea219c009d7e5a9b7a061ddec-0232c28db84ee97d4222d032ec4706b9-1682971932-1682964732
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Food_Network_Logo.svg" goup-title="variedades",food network hd
+https://server101.online/food-network/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=ce69501541dfcd2b15b8ba8c257c925b847a1763-95c21cd1ec6716adee212fbfef93f3b0-1682972666-1682965466
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:GNT_logo-roxo.svg" goup-title="variedades",gnt hd
+https://server101.online/gnt/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=679de1e4ef15ef34821c5c68a6b4fd762147d1d4-0b45623f3de6041ac4823f53ccc44c12-1682972861-1682965661
+
+#EXTINF:-0 tvg-logo="https://gkpb.com.br/26203/novo-logo-canal-viva/?amp=1" goup-title="variedades",viva hd
+https://server101.online/viva/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=484b222eb26140ed0bd016c857c291bda7bd7b8c-41ff3e5b51cdca02a886c4394ceda5b3-1682973102-1682965902
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Lifetime_logo17.svg" goup-title="variedades",lifetime hd
+https://server101.online/lifetime/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=88e952950343550af7766d01675689c796120ecb-7a0e01666c04acc58abfd32c3baf5eef-1682973297-1682966097
+
+#EXTINF:-0 tvg-logo="https://br.pinterest.com/pin/662592163922132631/" goup-title="variedades",mtv hd
+https://server101.online/mtv/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=a25476b820747e83af8db75a0b6ae549cee033b0-71b74f80f9e818ac34f92bb003466203-1682974325-1682967125
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Multishow_logo_red_2012.svg" goup-title="variadades",multishow hd
+https://server101.online/multishow/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=90ef2a76d7d13c8eb8b46b8df5672603ca21b528-d966b3baa872256d141a0e0c5cf96796-1682974613-1682967413
+
+#EXTINF:-0 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Canal_Off_logo.svg" goup-title="variedades",canal off hd
+https://server101.online/off/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=cc08c71ddeb5b72dc0e4dc71e648cd8ceca7b6d7-c7d9e26e531f6d0b41466ec6555e9713-1682974979-1682967779
+
+# infantil
+
+#EXTINF:-0 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:CARTOON_NETWORK_logo.png" goup-title="infantil",cartoon network hd
+https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0 tvg-logo="https://logos.fandom.com/pt-br/wiki/Discovery_Kids_%28Brasil%29" goup-title="infantil",discovery kids
+https://server101.online/d-kids/tracks-v1a1/mono.m3u8?remote=177.62.137.146&token=4e5561883bb46cc7659f07b1158194aa0cbe4da6-97ba74468073f5121f513402dfb0a7d7-1682979149-1682971949
